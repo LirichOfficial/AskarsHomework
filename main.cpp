@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#define int int_fast64_t
+#define int long long
 
 using namespace std;
 
